@@ -1,0 +1,64 @@
+html, body {
+	padding: 0;
+	margin: 0;
+
+	font-family: 'Lato', sans-serif;
+}
+
+.top {
+	height: 50%;
+	background-color: #EA2539;
+	color: #fff;
+
+	position: relative;
+}
+
+.top div {
+	position: absolute;
+	bottom: 0;
+	font-size: 500%;
+	text-align: left;
+	padding-left: 1%;
+
+	/*padding-bottom: 1%;*/
+}
+
+.bottom {
+	height: 50%;
+	background-color: #fff;
+	color: #000;
+}
+
+.bottom div {
+	font-size: 200%;
+	margin: 0 0 0 47%;
+
+	/*float: right;*/
+}
+
+.description {
+	padding-top: 1%;
+}
+
+.people {
+	margin-top: 1%;
+	/*text-align: left;*/
+	/*margin: 0 25% 0 25%;*/
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+
+	list-style: none;
+}
+
+li a {
+	padding-left: 1%;
+}
+
+.heading {
+	width: 31%;
+	padding-top: 5%;
+	border-bottom: 1px solid #000;
+}
